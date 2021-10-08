@@ -1,3 +1,7 @@
 Yeferson Andres Velazco Galvis
 18 años
 Espero con este curso afianzar mis conocimientos en programación y complementar mi formación profesional.
+
+Ahora si se puede realizar el commit porque la carpeta no está vacía
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo ya que se podrían generar errores graves o perdida de información. 
