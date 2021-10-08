@@ -1,1 +1,2 @@
 La carpeta ya no está vacía, por ende si se puede cargar
+Se debe tener en cuenta que no se puede crear dos archivos a la vez con las mismas características para evitar errores en el programa.
