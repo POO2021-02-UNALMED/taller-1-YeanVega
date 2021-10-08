@@ -1,0 +1,1 @@
+Sí, El error se debe a que GitHub no identifica carpetas vacías
